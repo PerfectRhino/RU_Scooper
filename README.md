@@ -1,2 +1,3 @@
 # RU_Scooper
 Versus scooper minigame for COGS Party
+In this 2-player versus minigame, each player controls a crane-like scoop to collect and deposit falling pellets into their bins. The pellets come in various colors, each with different attributes: gray (-1 point), blue (+5 points), shield (blocks gray pellets), red (redirects gray pellets to the opponent’s bin), and gold (+10 points). The scoop's movement will have physics, causing pellets to drop if the scoop is moved too quickly. Players can also temporarily stop controlling their scoop to launch gray pellets into the opponent’s bin, adding a layer of strategy and sabotage. The player with the most points at the end wins.
